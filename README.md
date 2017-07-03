@@ -1,0 +1,3 @@
+- Contains two components:RegistrationService, ActivationService 
+- we could put them in their own repo too, but we think at first the should go to the same repo same app.
+- Asks the UserQueryService if the user is already registrated
